@@ -93,6 +93,10 @@ input:focus {
     background-color: var(--diabled);
 }
 
+.addTaskButton:hover {
+    background-color: green; /* cambia el color de fondo al pasar el cursor sobre el botón */
+}
+
 .orderButton {
     background-color: var(--secondary);
     color: var(--light);
